@@ -1,6 +1,6 @@
 # C Engineering Simulations
 
-A collection of five C programs I wrote during my freshman year. These are terminal-based simulations focused on array manipulation, pointers (pass-by-reference), and basic algorithm design for data filtering and pattern matching.
+These are terminal-based simulations focused on array manipulation, pointers (pass-by-reference), and basic algorithm design for data filtering and pattern matching. All core algorithms were originally implemented during my freshman year.
 
 ## Projects Included
 
